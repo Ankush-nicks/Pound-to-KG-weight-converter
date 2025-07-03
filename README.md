@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📸 Screenshot
-![Screenshot](screenshots/weight-converter.png)
+![Screenshot](weightConverter_app.jpeg)
 
 ## 🎞️ Demo
 ![Demo](gifs/weight-converter-demo.gif)
