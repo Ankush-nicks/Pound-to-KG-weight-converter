@@ -8,7 +8,7 @@
 ![Screenshot](weightConverter_app.jpeg)
 
 ## 🎞️ Demo
-![Demo](gifs/weight-converter-demo.gif)
+![Demo](weightConverter_app.mp4)
 
 ---
 
